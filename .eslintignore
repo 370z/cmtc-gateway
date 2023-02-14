@@ -1,0 +1,5 @@
+/.eslintrc.js
+/.eslintrc-typescript.js
+/build/
+/config/
+/coverage/

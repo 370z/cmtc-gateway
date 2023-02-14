@@ -1,0 +1,19 @@
+# Standard artifacts
+*~
+*.map
+*.swp
+.DS_Store
+.nyc_output/
+.cache-loader/
+tmp/
+
+# Build artifacts
+/build
+node_modules/
+npm-debug.log
+
+# Run-time artifacts
+.post_upgrade_complete
+
+# Test artifacts
+/coverage/
